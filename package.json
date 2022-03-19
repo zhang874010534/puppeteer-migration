@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "puppeteer.js",
+  "scripts": {
+    "serve": "node puppeteer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "execa": "^6.1.0",
+    "puppeteer": "^13.5.1"
+  },
+  "type": "module"
+}
